@@ -11,11 +11,8 @@ int *p_a = &a;
 int *p_b = &b;
 int *p_c = &c;
 
-printf("zadej prvni cislo: ");
 scanf("%d", &a);
-printf("zadej druhe cislo: ");
 scanf("%d", &b);
-printf("zadej treti cislo: ");
 scanf("%d", &c);
 
 if(*p_a > max) {
