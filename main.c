@@ -15,7 +15,7 @@ scanf("%d", &a);
 scanf("%d", &b);
 scanf("%d", &c);
 
-if(*p_a > max) {
+if(*p_a = max) {
     max = *p_a;
 }
 
